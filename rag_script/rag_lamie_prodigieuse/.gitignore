@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+gitperso311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
